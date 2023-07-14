@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Kotlin,Unity
 - 🤔 I’m looking for help with Anyone who can help me
 - 💬 Ask me about Everything
 - ⚡ Fun fact: ...
